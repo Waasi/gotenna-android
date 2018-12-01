@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoTenacious</string>
+    <string name="medical">Medical</string>
+    <string name="food">Food</string>
+    <string name="rescue">Rescue</string>
+    <string name="gas">Gas</string>
+    <string name="other">Other</string>
+</resources>
